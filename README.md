@@ -1,5 +1,6 @@
 # Stock_Price_Prediction_ML
 algorithmic stock price prediction models using Machine Learning
+
 Building the stock market prediction Engine
 One of the Financial Analytics company wants to build a statistical algorithm for algorithmic trading and they hired you as the data scientist to help them.
 Data Description
